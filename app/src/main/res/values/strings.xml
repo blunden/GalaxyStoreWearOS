@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Galaxy Store</string>
+    <string name="error_launch">Failed to launch Galaxy Store</string>
+</resources>
